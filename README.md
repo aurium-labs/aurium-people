@@ -78,4 +78,4 @@ A `Profile` exposes ~40 fields, including:
 
 ## License 📄
 
-MIT
+[MIT](./LICENSE)
